@@ -1,0 +1,177 @@
+html {
+  height: 100%;
+  width: 100%;
+	font-family: 'Russo One', sans-serif;
+
+}
+body{
+	background-color: #f0e389;
+}
+
+div {
+    border: 1px double lightblue;   
+	
+}
+
+img {
+    width: 200px;   
+	height: 300px;
+}
+.min{
+	padding:4px;
+}
+
+a:hover{
+	color:salmon;
+}
+a{
+	text-decoration:none; 
+	color:navy;
+}
+figcaption{
+	font-size:0.9em;
+}
+
+.blob{
+	border:solid 5px #189da0; 
+	margin-top:4px;
+	border-radius:80px;
+}
+.mm{
+width:280px;
+}
+.rox{
+	padding: 4px;
+}
+
+.post{
+width:800px;
+height: 400px; 
+	border:8px gold double;
+}
+.pfp{
+	width:300px;
+	height:300px;
+	border-radius: 180px;
+	border:dashed 4px aliceblue;
+}
+.aboutMe{
+	padding:20px;
+	margin:0.3%;
+text-align:center; 
+	width: 100%;
+	border-radius:60px;
+	margin-left:25px;
+	background-color:#9dc1cd;
+}
+
+
+.blo{
+	margin: 10px;
+		padding: 8px;
+		border: 1px #4d53f9 solid;
+	border-radius:20px;
+
+	}
+.break{
+	text-align:center;
+}
+.navBar{
+	display:flex;
+	border-radius:600px;
+	justify-content: center;
+	padding:0px 2px;
+	border: 3px dashed navy; 
+	margin: 0px 900px;
+	width:450px;
+	margin-top:4px;
+	margin-bottom:4px;
+	background-color:#9dc1cd;
+}
+.se{
+	display:flex;
+	justify-content:center; 
+	border-radius:30px;
+	width:100%;
+	background-color:cadetblue;
+}
+.spark{
+	background-color:aliceblue;
+	width:230px;
+	margin-left:120px;
+	margin-right:80px;
+	border-radius:60px;
+}
+.cadet{
+	background-color: cadetblue;
+	width: 70px;
+	height: 20px;
+	text-align:center;
+;
+}
+.blue{
+	background-color: gold;
+	width: 85px;
+	height: 20px;
+	text-align:center;
+
+}
+.top{
+	float:left;
+	display: flex;
+	justify-content: center;
+}
+.navy{
+	background-color: darkturquoise;
+	width: 100px;
+	height: 20px;
+	text-align:center;
+}
+.posts{
+	margin:20px 0px;
+	padding:4px;
+	background-color: #9dc1cd;
+	width: 900px;
+	height: 510px;
+	overflow-x: hidden;
+	overflow-y: auto;
+	text-align:justify;
+border-radius:60px; }
+
+.container:{
+	border: 0px white solid;
+}
+.heady{
+	background-color: mediumturquoise;
+	border-radius: 700px;
+	padding:4px;
+}
+.sand{
+	background-color: #ffef61;
+	width:800px;
+	margin-left: 50px;
+	margin-right:50px;
+}
+.lair{
+	float:left;
+	margin-left:106px;
+	margin-top:30px;
+	margin-bottom:30px;
+	font-size:2.3em;
+	margin-right:10px;
+	border-radius:10px;
+	border:5px steelblue 
+}
+.norm{
+	font-family: 'Armata', sans-serif;
+
+}
+.friendsList{
+	text-align:center;
+	border-radius:60px;
+	margin:20px 10px;
+	background-color:#9dc1cd;
+}
+a:link{
+	color:navy;
+}
